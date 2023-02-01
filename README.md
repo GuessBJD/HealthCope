@@ -18,7 +18,7 @@ Coursework group project of Programming Elective II (3). An Android mobile appli
 - Learn health information
 
 ## Documentation
-See [documentation]
+See [documentation](https://drive.google.com/file/d/1lKTdUNYojstqj5FzIxmUe76-Hl2Jmurq/view?usp=share_link)
 
 ## Demonstration
 Watch [demonstration]
