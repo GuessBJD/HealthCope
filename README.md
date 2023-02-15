@@ -10,7 +10,7 @@ Coursework group project of Programming Elective II (3). An Android mobile appli
   - View vitals data history
   - View body measurements history
   - View and monitor data visualization
-- Manage personal hehalth log *-tracks daily conditions, symptoms, and treatments-*
+- Manage personal health log *-tracks daily conditions, symptoms, and treatments-*
   - Daily health log check-in
   - Record daily health log *-physical condition, mental condition, drug usage effectiveness-*
   - Check personal health log history
