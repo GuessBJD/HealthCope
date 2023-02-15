@@ -1,6 +1,6 @@
 # Health_Cope
 ## About
-Coursework group project of Programming Elective II (3). An Android mobile application for personal hhealth and chronic illness management. The mobile application was developed using android developers tools and features such as Android Studio and Android Jetpack. In addition, the backend for data access and storage was mocked using MockAPI where the data transaction was implemented using RESTful API. The project was coded in Kotlin.
+Coursework group project of Programming Elective II (3). An Android mobile application for personal health and chronic illness management. The mobile application was developed using android developers tools and features such as Android Studio and Android Jetpack. In addition, the backend for data access and storage was mocked using MockAPI where the data transaction was implemented using RESTful API. The project was coded in Kotlin.
 
 ## Details
 ### Main Features
